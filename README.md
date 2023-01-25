@@ -47,6 +47,10 @@ I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 ### :fire: My Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mcgaria&theme=radical)](https://git.io/streak-stats)
+
+
+
 
 
 
