@@ -3,8 +3,7 @@ Hi there 👋
 
 Here are some ideas to get you started:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mcgaria)](https://github.com/Mcgaria/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcgaria&layout=compact)](https://github.com/Mcgaria/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning: 
